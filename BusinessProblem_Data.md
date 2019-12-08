@@ -4,7 +4,7 @@
 
 ###Introduction:  
 A Business development consultant has been tasked to make recommendations to a Venture Capitalist on opening a new Ice Cream shop in Bangalore. 
-The client would like a neighbourhood with other Indian Restaurants, but a location having no (at least not too many) competition ice cream bars in the area
+The client would like a neighbourhood with other Indian Restaurants, but a location having not much competition in the area
 The notebook provides an exploratory data analysis and visualizations to eventually come to a recommended location(s).
 
 ###Data:
